@@ -1,3 +1,10 @@
+/*
+ANTONIO PIERRE MARTINS VIEIRA
+EDUARDO VINÍCIUS SILVA DE LIMA
+VINICIUS NASCIMENTO SILVA
+VICTOR MEYER DE MELLO XAVIER
+WILLIAN SILVA DE ALMEIDA
+ */
 #include <stdio.h>
 #include "fila_duplamente_encadeada.h"
 #include <stdlib.h>

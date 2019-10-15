@@ -1,10 +1,12 @@
+/*
+ANTONIO PIERRE MARTINS VIEIRA
+EDUARDO VINÍCIUS SILVA DE LIMA
+VINICIUS NASCIMENTO SILVA
+VICTOR MEYER DE MELLO XAVIER
+WILLIAN SILVA DE ALMEIDA
+ */
 #include <stdio.h>
 #include "fila_duplamente_encadeada.h"
-
-void aloca_fila(TipoFila fila){
-
-}
-
 int main() {
     TipoItem item1,item2,item3,item4,item5;
     TipoFila fila;
@@ -26,8 +28,5 @@ int main() {
     Desenfileira(&fila,&item4);
     printf("=================\n");
     Imprime(fila);
-
-
-
     return 0;
 }
